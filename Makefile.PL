@@ -28,7 +28,6 @@ sub main {
 			resources => {
 				homepage    => 'https://github.com/soig/Gtk3-SimpleList',
 				bucktracker => 'https://github.com/soig/Gtk3-SimpleList/issues',
-				repository  => 'https://github.com/soig/Gtk3-SimpleList',
 			},
 			repository  => {
 				type => 'git',
