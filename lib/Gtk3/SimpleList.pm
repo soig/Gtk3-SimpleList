@@ -171,7 +171,6 @@ sub get_selected_indices {
 	# but all the indices will be squashed into one array... so, ah,
 	# don't use this for TreeStores!
 	my ($indices) = $selection->get_selected_rows;
-	use Data::Dumper; warn Dumper $indices;
 	map { $_->get_indices } @$indices;
 }
 
