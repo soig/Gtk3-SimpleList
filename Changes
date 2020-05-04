@@ -1,5 +1,6 @@
 Revision history for Gtk3::SimpleList
 
+0.21 Mon Apr 4 16:17:00 CEST 2020
 * Remove useless Data::Dumper from Makefile.PL (CPAN RT#132493)
 
 0.20 Mon Apr 4 11:35:15 CEST 2020
