@@ -16,6 +16,9 @@ sub main {
 		ABSTRACT_FROM => File::Spec->catfile('lib', 'Gtk3', 'SimpleList.pm'),
 		LICENSE       => 'lgpl',
 
+		'CONFIGURE_REQUIRES' => {
+			'ExtUtils::MakeMaker' => '6.64'
+		},
 		PREREQ_PM     => {
 			'Gtk3'                        => 0,
 		},
