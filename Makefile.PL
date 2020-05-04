@@ -14,7 +14,7 @@ sub main {
 		NAME          => 'Gtk3::SimpleList',
 		VERSION_FROM  => File::Spec->catfile('lib', 'Gtk3', 'SimpleList.pm'),
 		ABSTRACT_FROM => File::Spec->catfile('lib', 'Gtk3', 'SimpleList.pm'),
-		LICENSE       => 'perl, lgpl',
+		LICENSE       => 'lgpl',
 
 		PREREQ_PM     => {
 			'Gtk3'                        => 0,
