@@ -1,5 +1,7 @@
 Revision history for Gtk3::SimpleList
 
+    Do not use PREREQ_FATAL=>1 (CPAN RT#127879)
+
 0.18 Mon Nov 5 04:26:15 CEST 2018
     Clarify docs (RT#124740)
 

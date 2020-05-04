@@ -19,7 +19,6 @@ sub main {
 		PREREQ_PM     => {
 			'Gtk3'                        => 0,
 		},
-		PREREQ_FATAL  => 1,
 
 		META_MERGE => {
 			resources => {
