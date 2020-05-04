@@ -32,6 +32,7 @@ sub main {
 				url => 'https://github.com/soig/Gtk3-SimpleList.git',
 				web =>  'https://github.com/soig/Gtk3-SimpleList',
 			},
+			release_status => 'stable',
 		},
 	);
 	WriteMakefile(@args);
