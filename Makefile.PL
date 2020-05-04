@@ -4,7 +4,6 @@ use warnings;
 use ExtUtils::MakeMaker;
 
 use File::Spec;
-use Data::Dumper;
 
 
 sub main {
