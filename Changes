@@ -1,5 +1,6 @@
 Revision history for Gtk3::SimpleList
 
+0.20 Mon Apr 4 11:35:15 CEST 2020
     Add repository details
     Fix URL
 
