@@ -22,9 +22,9 @@ sub main {
 
 		META_MERGE => {
 			resources => {
-				homepage    => 'https://github.com/potyl/perl-Gtk3-SimpleList',
-				bucktracker => 'https://github.com/potyl/perl-Gtk3-SimpleList/issues',
-				repository  => 'https://github.com/potyl/perl-Gtk3-SimpleList',
+				homepage    => 'https://github.com/soig/Gtk3-SimpleList',
+				bucktracker => 'https://github.com/soig/Gtk3-SimpleList/issues',
+				repository  => 'https://github.com/soig/Gtk3-SimpleList',
 			},
 		},
 	);
