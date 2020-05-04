@@ -21,10 +21,16 @@ sub main {
 		},
 
 		META_MERGE => {
+			'meta-spec' => { version => 2 },
 			resources => {
 				homepage    => 'https://github.com/soig/Gtk3-SimpleList',
 				bucktracker => 'https://github.com/soig/Gtk3-SimpleList/issues',
 				repository  => 'https://github.com/soig/Gtk3-SimpleList',
+			},
+			repository  => {
+				type => 'git',
+				url => 'https://github.com/soig/Gtk3-SimpleList.git',
+				web =>  'https://github.com/soig/Gtk3-SimpleList',
 			},
 		},
 	);
