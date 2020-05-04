@@ -1,4 +1,10 @@
 Revision history for Gtk3::SimpleList
 
-0.01 Mon Nov 23 21:37:15 CEST 2013
+0.18 Mon Nov 5 04:26:15 CEST 2018
+    Clarify docs (RT#124740)
+
+0.17 Mon Nov 6 08:57:15 CEST 2017
+    Actually include tests
+
+0.16 Mon Nov 5 21:38:15 CEST 2017
     First version, released on an unsuspecting world.
